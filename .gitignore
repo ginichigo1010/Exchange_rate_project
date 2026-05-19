@@ -1,0 +1,21 @@
+# 데이터 파일
+*.csv
+*.npy
+*.pkl
+
+# 이미지 결과물
+*.png
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# 환경
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
